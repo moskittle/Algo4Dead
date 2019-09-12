@@ -5,7 +5,7 @@ import edu.princeton.cs.algs4.StdRandom;
 
 import java.awt.*;
 
-public class Ex1_2_1 {
+public class Ex1_2_01 {
 
     private static double CalcDistance(Point2D p0, Point2D p1) {
         return Math.sqrt((p0.y() - p1.y()) * (p0.y() - p1.y()) + (p0.x() - p1.x()) * (p0.x() - p1.x()));

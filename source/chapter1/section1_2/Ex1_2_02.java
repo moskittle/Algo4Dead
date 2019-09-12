@@ -2,14 +2,9 @@ import edu.princeton.cs.algs4.Interval1D;
 import edu.princeton.cs.algs4.StdOut;
 import edu.princeton.cs.algs4.StdRandom;
 
-public class Ex1_2_2 {
+public class Ex1_2_02 {
 
     private static boolean intersect(Interval1D i0, Interval1D i1) {
-/*        if(){
-            return true;
-        } else if () {
-
-        }*/
         return (i0.min() < i1.min() && i0.max() > i1.min()) || (i1.min() < i0.min() && i1.max() > i0.min());
     }
 
