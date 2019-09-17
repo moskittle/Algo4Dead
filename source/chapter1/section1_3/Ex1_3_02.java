@@ -36,6 +36,9 @@ public class Ex1_3_02<Item> implements Iterable<Item> {
     }
 
     public Item pop() {
+        if (isEmpty()) {
+            throw new NoSuchElementException("Stack underflow");
+        }
         Item item = first.item;
         first = first.next;
         N--;
@@ -54,6 +57,7 @@ public class Ex1_3_02<Item> implements Iterable<Item> {
         }
 
         public void remove() {
+            throw new UnsupportedOperationException();
         }
 
         public Item next() {

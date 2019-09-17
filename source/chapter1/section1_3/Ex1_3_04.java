@@ -71,13 +71,10 @@ public class Ex1_3_04<Item> implements Iterable<Item> {
         }
 
         public void remove() {
+            throw new UnsupportedOperationException();
         }
 
         public Item next() {
-            if (!hasNext()) {
-                throw new NoSuchElementException("No element in stack!");
-            }
-
             Item item = current.item;
             current = current.next;
             return item;
