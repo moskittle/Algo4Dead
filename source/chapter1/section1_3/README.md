@@ -34,3 +34,18 @@ See Ex1_3_11
 
 Ex 1.3.12
 See Ex1_3_12
+
+Ex 1.3.13
+Answer: b, c, d
+
+Ex 1.3.14
+See Ex1_3_14
+
+Ex 1.3.15
+See Ex1_3_15
+
+Ex 1.3.16
+See Ex1_3_16
+
+Ex 1.3.17
+See Ex1_3_17
