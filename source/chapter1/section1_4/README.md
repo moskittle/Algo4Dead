@@ -60,4 +60,7 @@ Formula: T(N) = T * 2^(b*lg(N-N0))
 See Ex1_4_10.java
 
 1.4.11
-See Ex1_4_11.java (bug need to be fixed)
+See Ex1_4_11.java
+
+1.4.12
+See Ex1_4_12.java

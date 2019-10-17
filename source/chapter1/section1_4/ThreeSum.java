@@ -28,7 +28,6 @@ public class ThreeSum {
         }
     }
 
-    edu.princeton.cs.algs4.ThreeSum
 
     public static double timeTrial(int N) {
         int MAX = 1000000;
