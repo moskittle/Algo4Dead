@@ -94,16 +94,16 @@
 >We can get,
 >
 >$
->r = a \cdot k - n \cdot (b \cdot k) \\
->\,\,\,\,= (a - b \cdot n) \cdot k
->$
+r = a \cdot k - n \cdot (b \cdot k) \\
+\,\,\,\,= (a - b \cdot n) \cdot k
+$
 >
 >Therefore, $r$ is also divided by $k$.  
 >Thus, the greatest common divisor of $p$ and $q$ is alo the greatest common divisor of $q$ and $r$.
 >
->*Base Case*:  
+>**Base Case**:  
 >If $p$ is divided by $q$, the greatest common divisor of $p$ and $q$ is $q$.  
->*Induction Step*:  
+>**Induction Step**:  
 >$r \equiv p \pmod q$ . Calculate the greatest common divisor of $q$ and $r$.
 >
 >External link: [The Euclidean Algorithm](https://www.whitman.edu/mathematics/higher_math_online/section03.03.html)
