@@ -1,7 +1,7 @@
 ## Ex 1.4.1
 >Formula for <img src="/source/chapter1/section1_4/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/> choose <img src="/source/chapter1/section1_4/tex/63bb9849783d01d91403bc9a5fea12a2.svg?invert_in_darkmode&sanitize=true" align=middle width=9.075367949999992pt height=22.831056599999986pt/>:  
-<p align="center"><img src="/source/chapter1/section1_4/tex/51fd10cd18998c936ed91d385b63be95.svg?invert_in_darkmode&sanitize=true" align=middle width=139.8567852pt height=39.452455349999994pt/></p>
-
+>
+><img src="/source/chapter1/section1_4/tex/c0c35e7ff281602710e4c89b1b8cec0b.svg?invert_in_darkmode&sanitize=true" align=middle width=101.63806455pt height=28.92634470000001pt/>
 ## [Ex 1.4.2](Ex1_4_02.java)
 
 ## [Ex 1.4.3](Ex1_4_03.java)
