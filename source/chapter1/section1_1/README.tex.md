@@ -93,17 +93,16 @@
 >Let $r \equiv p \pmod q$ , then $r = p - n \cdot q$, for $n \in\mathbb{Z}$.  
 >We can get,
 >
->$
-r = a \cdot k - n \cdot (b \cdot k) \\
-\,\,\,\,= (a - b \cdot n) \cdot k
-$
+>$r = a \cdot k - n \cdot (b \cdot k)$  
+>&ensp;&ensp;$= (a - b \cdot n) \cdot k$
 >
 >Therefore, $r$ is also divided by $k$.  
 >Thus, the greatest common divisor of $p$ and $q$ is alo the greatest common divisor of $q$ and $r$.
 >
 >**Base Case**:  
->If $p$ is divided by $q$, the greatest common divisor of $p$ and $q$ is $q$.  
+>&ensp;&ensp;If $p$ is divided by $q$, the greatest common divisor of $p$ and $q$ is $q$.  
 >**Induction Step**:  
->$r \equiv p \pmod q$ . Calculate the greatest common divisor of $q$ and $r$.
+>&ensp;&ensp;$r \equiv p \pmod q$   
+>&ensp;&ensp;Calculate the greatest common divisor of $q$ and $r$.
 >
 >External link: [The Euclidean Algorithm](https://www.whitman.edu/mathematics/higher_math_online/section03.03.html)

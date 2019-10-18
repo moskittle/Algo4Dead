@@ -1,9 +1,7 @@
 ## Ex 1.4.1
 >Formula for $n$ choose $k$:  
-$$
-\binom{n}{k} = \frac{n!}{k!\cdot(n - k)!}
-$$
-
+>
+>$\binom{n}{k} = \frac{n!}{k!\cdot(n - k)!}$
 ## [Ex 1.4.2](Ex1_4_02.java)
 
 ## [Ex 1.4.3](Ex1_4_03.java)
